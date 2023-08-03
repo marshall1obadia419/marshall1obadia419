@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marshall1obadia419
+- 👀 I’m interested in machine learning and AI.
+- 🌱 I’m currently learning Python.
+- 💞️ Committed to continuous learning and growth.
